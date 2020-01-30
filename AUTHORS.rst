@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Thomas Knox <tknox@umich.edu>
+* Thomas Knox <knoxilla@gmail.com>
 
 Contributors
 ------------
