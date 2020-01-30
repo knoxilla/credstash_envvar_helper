@@ -18,7 +18,7 @@ test_requirements = [ ]
 
 setup(
     author="Thomas Knox",
-    author_email='tknox@umich.edu',
+    author_email='knoxilla@gmail.com',
     python_requires='>=3.5',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
@@ -31,7 +31,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description=" Retrieves secrets from AWS via credstash, and returns a dictionary.",
+    description="Retrieves secrets from AWS via credstash, and returns a dictionary.",
     install_requires=requirements,
     license="MIT license",
     long_description=readme + '\n\n' + history,

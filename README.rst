@@ -16,7 +16,7 @@ Credstash Envvar Helper
 
 
 
- Retrieves secrets from AWS via credstash, and returns a dictionary.
+Retrieves secrets from AWS via credstash, and returns a dictionary.
 
 
 * Free software: MIT license
@@ -26,7 +26,7 @@ Credstash Envvar Helper
 Features
 --------
 
-* TODO
+* This is a magnificent package designed to save you time and bother.
 
 Credits
 -------
