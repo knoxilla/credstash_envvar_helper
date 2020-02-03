@@ -2,6 +2,6 @@
 
 __author__ = "Thomas Knox"
 __email__ = "knoxilla@gmail.com"
-__version__ = "0.1.2"
+__version__ = "__version__ = '0.1.3'"
 
 from .credstash_envvar_helper import get_credstash_config
