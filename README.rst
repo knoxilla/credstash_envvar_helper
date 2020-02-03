@@ -6,20 +6,30 @@ Credstash Envvar Helper
 .. image:: https://img.shields.io/pypi/v/credstash_envvar_helper.svg
         :target: https://pypi.python.org/pypi/credstash_envvar_helper
 
+.. image:: https://img.shields.io/pypi/pyversions/credstash_envvar_helper.svg
+        :target: https://pypi.org/project/credstash_envvar_helper
+        :alt: Python versions supported
+
 .. image:: https://img.shields.io/travis/knoxilla/credstash_envvar_helper.svg
         :target: https://travis-ci.org/knoxilla/credstash_envvar_helper
+        :alt: Build status
 
 .. image:: https://readthedocs.org/projects/credstash-envvar-helper/badge/?version=latest
         :target: https://credstash-envvar-helper.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
+        :alt: Documentation status
 
+.. image:: https://img.shields.io/github/license/knoxilla/credstash_envvar_helper.svg
+        :target: https://github.com/knoxilla/credstash_envvar_helper/blob/master/LICENSE
+        :alt: License
 
+.. image:: https://img.shields.io/badge/calver-0Y.0M.MICRO-1FAFC8.svg?style=flat
+        :target: https://calver.org/
+        :alt: Calendar versioning
 
 
 Retrieves secrets from AWS via credstash, and returns a dictionary.
 
 
-* Free software: MIT license
 * Documentation: https://credstash-envvar-helper.readthedocs.io.
 
 
