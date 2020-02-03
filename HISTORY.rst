@@ -2,6 +2,12 @@
 History
 =======
 
+0.1.3 (2020-02-03)
+------------------
+
+* Add credstash parsing code to main module
+* Add support for python27
+
 0.1.2 (2020-01-30)
 ------------------
 
